@@ -25,7 +25,7 @@
     <option value="3">特辣</option>
 </select><br>
     菜品的介绍:<input type="text" name="minfo"/><br>
-    时间:<input type="date" name="mtime"/><br>
+    菜品的时间:<input type="date" name="mtime"/><br>
     <input type="button" onclick="addMenu()" value="提交"/><input type="reset" value="重置"/>
 </form>
 </body>
