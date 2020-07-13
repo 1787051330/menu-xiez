@@ -19,7 +19,7 @@
     <input type="radio" value="2" name="dvalid"/>售罄<br>
     菜品的价格:<input type="number" name="mprice"/><br>
     菜品的味道:<select name="mtaste">
-    <option value="0">请选择</option>
+    <option value="0">请选择菜品味道</option>
     <option value="1">不辣</option>
     <option value="2">微辣</option>
     <option value="3">特辣</option>
