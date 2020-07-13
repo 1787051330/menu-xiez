@@ -6,8 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af50d72f-abf9-4ec9-b4d1-756ff03eeb49" name="Default Changelist" comment="修改了add文件">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="af50d72f-abf9-4ec9-b4d1-756ff03eeb49" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/webapp/menu_add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/menu_add.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/menu_add.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            <state relative-caret-position="117">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -337,7 +336,7 @@
       <workItem from="1594215942165" duration="1064000" />
       <workItem from="1594250860411" duration="4458000" />
       <workItem from="1594391573697" duration="1000" />
-      <workItem from="1594636754980" duration="215000" />
+      <workItem from="1594636754980" duration="250000" />
     </task>
     <task id="LOCAL-00001" summary="提交">
       <created>1594216158039</created>
@@ -395,11 +394,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594265057287</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="修改了add文件">
+      <created>1594636981552</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594636981552</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20195000" />
+    <option name="totallyTimeSpent" value="20230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -498,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/menu_add.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        <state relative-caret-position="117">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
         </state>
       </provider>
     </entry>
